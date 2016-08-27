@@ -1,0 +1,30 @@
+/*styles.css*/
+*{
+    margin: 0;
+}
+.clear{
+    clear: both;
+}
+.content,
+#d1,
+#d2,
+#d3{
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid crimson;
+    background-color: aquamarine;
+
+}
+#d1,
+#d2,
+#d3{
+    float: left;
+}
+.thero
+.first,
+.second,
+.third{
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid chartreuse;
+}
